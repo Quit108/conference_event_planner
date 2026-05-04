@@ -82,7 +82,7 @@ const ConferenceEvent = () => {
         <>
             <div className="display_box1">
                 {items.lenght === 0 && <p>No Items Selected</p>}
-                <table className="table_items_data">
+                <table className="table_item_data">
                     <thead>
                         <tr>
                             <th>Name</th>
